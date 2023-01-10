@@ -22,8 +22,12 @@ const DataVisualize = () => {
 		{ label: "近三月", name: 4 },
 		{ label: "近半年", name: 5 },
 		{ label: "近一年", name: 6 },
+<<<<<<< HEAD
 		{ label: "近3年", name: 6 },
 		{ label: "近10年", name: 6 }
+=======
+		{ label: "近二年", name: 7 }
+>>>>>>> a5914dc (feat: 123)
 	];
 
 	return (
