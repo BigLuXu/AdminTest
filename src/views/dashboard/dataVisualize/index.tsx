@@ -14,6 +14,7 @@ const DataVisualize = () => {
 	const onChange = (key: string) => {
 		console.log(key);
 	};
+	console.log(1231);
 
 	const tabsList = [
 		{ label: "未来7日", name: 1 },
